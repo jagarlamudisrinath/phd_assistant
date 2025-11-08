@@ -1,0 +1,79 @@
+# PhD Assistant Knowledge Base - .gitignore
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+~$*
+*.swp
+*.swo
+*~
+
+# Microsoft Office Temporary Files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+# Personal/Sensitive Information (uncomment if needed)
+# **/grades/*.csv
+# **/grades/*.xlsx
+# **/*-personal.pdf
+# **/*-personal.docx
+
+# Backup Files
+*.bak
+*.backup
+
+# Large Media Files (uncomment if you want to exclude)
+# *.mp4
+# *.mov
+# *.avi
+# *.mkv
+
+# Compressed Archives (if not needed in version control)
+# *.zip
+# *.rar
+# *.7z
+# *.tar.gz
+
+# LaTeX Build Files (if using LaTeX for papers)
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.bbl
+*.blg
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python (if you add any scripts later)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.env
+
+# Node.js (if you add any tools later)
+node_modules/
+npm-debug.log
+
+# General
+*.log
