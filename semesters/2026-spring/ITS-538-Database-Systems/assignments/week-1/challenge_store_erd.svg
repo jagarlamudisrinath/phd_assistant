@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="610" viewBox="0 0 900 610">
+  <title>Challenge Store ERD</title>
+  <!-- Generated Dia-style ER Diagram -->
+  <rect width="900" height="610" fill="white"/>
+  <line x1="320.0" y1="110.0" x2="242.7" y2="71.3" stroke="black" stroke-width="1.5"/>
+  <line x1="400.0" y1="110.0" x2="477.3" y2="71.3" stroke="black" stroke-width="1.5"/>
+  <line x1="128.9" y1="385.0" x2="70.3" y2="440.7" stroke="black" stroke-width="1.5"/>
+  <line x1="85.0" y1="365.0" x2="102.0" y2="365.0" stroke="black" stroke-width="1.5"/>
+  <line x1="443.8" y1="385.0" x2="391.2" y2="450.0" stroke="black" stroke-width="1.5"/>
+  <line x1="481.9" y1="385.0" x2="554.0" y2="450.8" stroke="black" stroke-width="1.5"/>
+  <line x1="762.2" y1="345.0" x2="818.7" y2="294.2" stroke="black" stroke-width="1.5"/>
+  <line x1="805.0" y1="365.0" x2="788.0" y2="365.0" stroke="black" stroke-width="1.5"/>
+  <line x1="840.0" y1="386.0" x2="840.0" y2="434.0" stroke="black" stroke-width="1.5"/>
+  <line x1="840.0" y1="386.0" x2="840.0" y2="514.0" stroke="black" stroke-width="1.5"/>
+  <line x1="340.5" y1="150.0" x2="265.9" y2="226.5" stroke="black" stroke-width="1.5"/>
+  <text x="292" y="219" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">1</text>
+  <line x1="172.6" y1="341.9" x2="228.8" y2="272.7" stroke="black" stroke-width="1.5"/>
+  <line x1="168.0" y1="338.1" x2="224.1" y2="268.9" stroke="black" stroke-width="1.5"/>
+  <text x="203" y="277" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">n</text>
+  <line x1="368.5" y1="150.0" x2="400.2" y2="225.0" stroke="black" stroke-width="1.5"/>
+  <text x="406" y="203" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">1</text>
+  <line x1="451.5" y1="345.0" x2="419.8" y2="271.0" stroke="black" stroke-width="1.5"/>
+  <text x="414" y="293" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">n</text>
+  <line x1="431.3" y1="385.0" x2="318.2" y2="463.8" stroke="black" stroke-width="1.5"/>
+  <text x="351" y="458" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">1</text>
+  <line x1="175.2" y1="385.0" x2="273.5" y2="462.9" stroke="black" stroke-width="1.5"/>
+  <text x="261" y="435" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">m</text>
+  <line x1="615.0" y1="497.8" x2="663.5" y2="540.9" stroke="black" stroke-width="1.5"/>
+  <line x1="215.0" y1="381.8" x2="558.5" y2="470.6" stroke="black" stroke-width="1.5"/>
+  <text x="486" y="437" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">m</text>
+  <line x1="714.8" y1="385.0" x2="616.5" y2="462.9" stroke="black" stroke-width="1.5"/>
+  <text x="647" y="457" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">n</text>
+  <line x1="455.0" y1="508.0" x2="455.0" y2="549.0" stroke="black" stroke-width="1.5"/>
+  <line x1="203.0" y1="385.0" x2="423.4" y2="468.1" stroke="black" stroke-width="1.5"/>
+  <line x1="459.1" y1="385.0" x2="456.2" y2="452.6" stroke="black" stroke-width="1.5"/>
+  <line x1="690.4" y1="385.0" x2="485.7" y2="467.6" stroke="black" stroke-width="1.5"/>
+  <rect x="295" y="110" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="360" y="130" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Store</text>
+  <rect x="80" y="340" width="140" height="50" fill="white" stroke="black" stroke-width="1.5"/>
+  <rect x="85" y="345" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="150" y="365" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Branch</text>
+  <rect x="395" y="345" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="460" y="365" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Employee</text>
+  <rect x="675" y="345" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="740" y="365" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Item</text>
+  <polygon points="245,215 305,248 245,281 185,248" fill="white" stroke="black" stroke-width="1.5"/>
+  <polygon points="245,220 300,248 245,276 190,248" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="245" y="248" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">BelongsTo</text>
+  <polygon points="410,220 465,248 410,276 355,248" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="410" y="248" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">Employs</text>
+  <polygon points="295,452 350,480 295,508 240,480" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="295" y="480" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">Manages</text>
+  <polygon points="595,452 650,480 595,508 540,480" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="595" y="480" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">Sells</text>
+  <polygon points="455,452 510,480 455,508 400,480" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="455" y="480" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">EarnsCommission</text>
+  <ellipse cx="210" cy="55" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="210" y="55" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">storeID</text>
+  <ellipse cx="510" cy="55" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="510" y="55" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">storeName</text>
+  <ellipse cx="50" cy="460" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="50" y="460" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">branchNum</text>
+  <line x1="19.4" y1="468" x2="80.6" y2="468" stroke="black" stroke-width="1" stroke-dasharray="3,2"/>
+  <ellipse cx="50" cy="365" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="50" y="365" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">location</text>
+  <ellipse cx="375" cy="470" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="375" y="470" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">eCode</text>
+  <ellipse cx="575" cy="470" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="575" y="470" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">eName</text>
+  <ellipse cx="840" cy="275" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="840" y="275" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">itemID</text>
+  <ellipse cx="840" cy="365" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="840" y="365" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">description</text>
+  <ellipse cx="840" cy="455" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="840" y="455" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">short</text>
+  <ellipse cx="840" cy="535" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="840" y="535" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">long</text>
+  <ellipse cx="685" cy="560" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="685" y="560" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">salePrice</text>
+  <ellipse cx="455" cy="570" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="455" y="570" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">rate</text>
+</svg>

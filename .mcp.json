@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest",
+        "--browser", "chrome"
+      ]
+    },
+    "jasp": {
+      "command": "/Users/srinathjagarlamudi/Documents/codebase/jasp_mcp/.venv/bin/python",
+      "args": ["/Users/srinathjagarlamudi/Documents/codebase/jasp_mcp/jasp_server.py"]
+    }
+  }
+}

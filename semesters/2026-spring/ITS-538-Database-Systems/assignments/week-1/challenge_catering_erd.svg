@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="700" viewBox="0 0 1050 700">
+  <title>Challenge – Catering Application ERD</title>
+  <!-- Generated Dia-style ER Diagram -->
+  <rect width="1050" height="700" fill="white"/>
+  <line x1="159.3" y1="285.0" x2="74.0" y2="218.6" stroke="black" stroke-width="1.5"/>
+  <line x1="120.0" y1="305.0" x2="102.0" y2="305.0" stroke="black" stroke-width="1.5"/>
+  <line x1="163.4" y1="325.0" x2="76.1" y2="405.9" stroke="black" stroke-width="1.5"/>
+  <line x1="185.0" y1="285.0" x2="185.0" y2="191.0" stroke="black" stroke-width="1.5"/>
+  <line x1="163.9" y1="150.8" x2="116.1" y2="107.2" stroke="black" stroke-width="1.5"/>
+  <line x1="206.1" y1="150.8" x2="253.9" y2="107.2" stroke="black" stroke-width="1.5"/>
+  <line x1="575.0" y1="285.0" x2="575.0" y2="206.0" stroke="black" stroke-width="1.5"/>
+  <line x1="901.2" y1="285.0" x2="967.3" y2="242.8" stroke="black" stroke-width="1.5"/>
+  <line x1="156.6" y1="565.0" x2="75.9" y2="621.8" stroke="black" stroke-width="1.5"/>
+  <line x1="640.0" y1="561.2" x2="670.8" y2="568.9" stroke="black" stroke-width="1.5"/>
+  <line x1="380.0" y1="277.0" x2="380.0" y2="211.0" stroke="black" stroke-width="1.5"/>
+  <line x1="250.0" y1="305.0" x2="325.0" y2="305.0" stroke="black" stroke-width="1.5"/>
+  <text x="308" y="291" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">n</text>
+  <line x1="510.0" y1="305.0" x2="435.0" y2="305.0" stroke="black" stroke-width="1.5"/>
+  <text x="452" y="319" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">m</text>
+  <line x1="640.0" y1="305.0" x2="668.0" y2="305.0" stroke="black" stroke-width="1.5"/>
+  <text x="662" y="291" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">n</text>
+  <line x1="805.0" y1="305.0" x2="778.0" y2="305.0" stroke="black" stroke-width="1.5"/>
+  <text x="784" y="319" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">1</text>
+  <line x1="575.0" y1="325.0" x2="575.0" y2="392.0" stroke="black" stroke-width="1.5"/>
+  <text x="589" y="377" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">1</text>
+  <line x1="578.0" y1="520.0" x2="578.0" y2="458.0" stroke="black" stroke-width="1.5"/>
+  <line x1="572.0" y1="520.0" x2="572.0" y2="458.0" stroke="black" stroke-width="1.5"/>
+  <text x="561" y="472" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">n</text>
+  <line x1="197.7" y1="325.0" x2="266.6" y2="433.8" stroke="black" stroke-width="1.5"/>
+  <text x="263" y="402" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">n</text>
+  <line x1="206.1" y1="525.0" x2="260.8" y2="473.2" stroke="black" stroke-width="1.5"/>
+  <text x="239" y="474" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">m</text>
+  <line x1="535.7" y1="325.0" x2="307.5" y2="441.0" stroke="black" stroke-width="1.5"/>
+  <text x="364" y="428" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">p</text>
+  <rect x="120" y="285" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="185" y="305" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Staff</text>
+  <rect x="510" y="285" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="575" y="305" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Event</text>
+  <rect x="120" y="525" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="185" y="545" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Corporation</text>
+  <rect x="805" y="285" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="870" y="305" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Venue</text>
+  <rect x="505" y="520" width="140" height="50" fill="white" stroke="black" stroke-width="1.5"/>
+  <rect x="510" y="525" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="575" y="545" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Offering</text>
+  <polygon points="380,277 435,305 380,333 325,305" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="380" y="305" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">Manages</text>
+  <polygon points="280,427 335,455 280,483 225,455" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="280" y="455" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">Caters</text>
+  <polygon points="575,392 635,425 575,458 515,425" fill="white" stroke="black" stroke-width="1.5"/>
+  <polygon points="575,397 630,425 575,453 520,425" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="575" y="425" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">Schedules</text>
+  <polygon points="723,277 778,305 723,333 668,305" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="723" y="305" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">HeldAt</text>
+  <ellipse cx="50" cy="200" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="50" y="200" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">sID</text>
+  <ellipse cx="50" cy="305" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="50" y="305" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">title</text>
+  <ellipse cx="50" cy="430" rx="58" ry="27" fill="white" stroke="black" stroke-width="1.5"/>
+  <ellipse cx="50" cy="430" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="50" y="430" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">roles</text>
+  <ellipse cx="185" cy="170" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="185" y="170" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">name</text>
+  <ellipse cx="95" cy="88" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="95" y="88" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">firstName</text>
+  <ellipse cx="275" cy="88" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="275" y="88" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">lastName</text>
+  <ellipse cx="380" cy="190" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="380" y="190" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">savings</text>
+  <ellipse cx="575" cy="185" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="575" y="185" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">eventID</text>
+  <ellipse cx="995" cy="225" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="995" y="225" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">venueID</text>
+  <ellipse cx="50" cy="640" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="50" y="640" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">corpID</text>
+  <ellipse cx="715" cy="580" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="715" y="580" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">offeringKey</text>
+  <line x1="677.6" y1="588" x2="752.4" y2="588" stroke="black" stroke-width="1" stroke-dasharray="3,2"/>
+</svg>

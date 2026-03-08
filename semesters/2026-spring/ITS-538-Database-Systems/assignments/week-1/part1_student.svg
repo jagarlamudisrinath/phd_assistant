@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="535" viewBox="0 0 760 535">
+  <title>Part 1 – Student Entity with Attributes</title>
+  <!-- Generated Dia-style ER Diagram -->
+  <rect width="760" height="535" fill="white"/>
+  <line x1="332.3" y1="205.0" x2="174.0" y2="130.9" stroke="black" stroke-width="1.5"/>
+  <line x1="310.0" y1="225.0" x2="192.0" y2="225.0" stroke="black" stroke-width="1.5"/>
+  <line x1="335.8" y1="245.0" x2="179.1" y2="325.0" stroke="black" stroke-width="1.5"/>
+  <line x1="375.0" y1="245.0" x2="375.0" y2="364.0" stroke="black" stroke-width="1.5"/>
+  <line x1="346.6" y1="402.6" x2="258.4" y2="457.4" stroke="black" stroke-width="1.5"/>
+  <line x1="403.4" y1="402.6" x2="491.6" y2="457.4" stroke="black" stroke-width="1.5"/>
+  <line x1="440.0" y1="225.0" x2="563.0" y2="225.0" stroke="black" stroke-width="1.5"/>
+  <rect x="310" y="205" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="375" y="225" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Student</text>
+  <ellipse cx="140" cy="115" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="140" y="115" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">credits</text>
+  <ellipse cx="140" cy="225" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="140" y="225" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">studentID</text>
+  <ellipse cx="140" cy="345" rx="58" ry="27" fill="white" stroke="black" stroke-width="1.5"/>
+  <ellipse cx="140" cy="345" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="140" y="345" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">major</text>
+  <ellipse cx="375" cy="385" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="375" y="385" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">name</text>
+  <ellipse cx="230" cy="475" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="230" y="475" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">firstName</text>
+  <ellipse cx="520" cy="475" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="520" y="475" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">lastName</text>
+  <ellipse cx="615" cy="225" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="615" y="225" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">age</text>
+</svg>

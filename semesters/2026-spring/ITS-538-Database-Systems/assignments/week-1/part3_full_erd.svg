@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="990" height="600" viewBox="0 0 990 600">
+  <title>Part 3 – Full Enrollment ERD (Section Weak Entity)</title>
+  <!-- Generated Dia-style ER Diagram -->
+  <rect width="990" height="600" fill="white"/>
+  <line x1="162.5" y1="270.0" x2="71.5" y2="189.1" stroke="black" stroke-width="1.5"/>
+  <line x1="120.0" y1="290.0" x2="102.0" y2="290.0" stroke="black" stroke-width="1.5"/>
+  <line x1="164.2" y1="310.0" x2="75.2" y2="395.7" stroke="black" stroke-width="1.5"/>
+  <line x1="185.0" y1="310.0" x2="185.0" y2="424.0" stroke="black" stroke-width="1.5"/>
+  <line x1="162.7" y1="464.0" x2="107.3" y2="511.0" stroke="black" stroke-width="1.5"/>
+  <line x1="207.3" y1="464.0" x2="262.7" y2="511.0" stroke="black" stroke-width="1.5"/>
+  <line x1="205.8" y1="270.0" x2="294.9" y2="184.4" stroke="black" stroke-width="1.5"/>
+  <line x1="817.0" y1="270.0" x2="900.1" y2="208.4" stroke="black" stroke-width="1.5"/>
+  <line x1="490.0" y1="318.0" x2="490.0" y2="399.0" stroke="black" stroke-width="1.5"/>
+  <line x1="250.0" y1="293.0" x2="435.0" y2="293.0" stroke="black" stroke-width="1.5"/>
+  <line x1="250.0" y1="287.0" x2="435.0" y2="287.0" stroke="black" stroke-width="1.5"/>
+  <text x="394" y="276" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">n</text>
+  <line x1="725.0" y1="290.0" x2="545.0" y2="290.0" stroke="black" stroke-width="1.5"/>
+  <text x="585" y="304" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">m</text>
+  <line x1="790.0" y1="310.0" x2="790.0" y2="367.0" stroke="black" stroke-width="1.5"/>
+  <text x="804" y="354" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">1</text>
+  <line x1="793.0" y1="485.0" x2="793.0" y2="433.0" stroke="black" stroke-width="1.5"/>
+  <line x1="787.0" y1="485.0" x2="787.0" y2="433.0" stroke="black" stroke-width="1.5"/>
+  <text x="776" y="444" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" font-style="italic">n</text>
+  <line x1="855.0" y1="510.0" x2="888.0" y2="510.0" stroke="black" stroke-width="1.5"/>
+  <rect x="120" y="270" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="185" y="290" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Student</text>
+  <rect x="725" y="270" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="790" y="290" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Course</text>
+  <rect x="720" y="485" width="140" height="50" fill="white" stroke="black" stroke-width="1.5"/>
+  <rect x="725" y="490" width="130" height="40" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="790" y="510" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">Section</text>
+  <polygon points="490,262 545,290 490,318 435,290" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="490" y="290" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">EnrollsIn</text>
+  <polygon points="790,367 850,400 790,433 730,400" fill="white" stroke="black" stroke-width="1.5"/>
+  <polygon points="790,372 845,400 790,428 735,400" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="790" y="400" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="11">HasSection</text>
+  <ellipse cx="50" cy="170" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="50" y="170" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">credits</text>
+  <ellipse cx="50" cy="290" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="50" y="290" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">studentID</text>
+  <ellipse cx="50" cy="420" rx="58" ry="27" fill="white" stroke="black" stroke-width="1.5"/>
+  <ellipse cx="50" cy="420" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="50" y="420" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">major</text>
+  <ellipse cx="185" cy="445" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="185" y="445" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">name</text>
+  <ellipse cx="85" cy="530" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="85" y="530" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">firstName</text>
+  <ellipse cx="285" cy="530" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="285" y="530" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">lastName</text>
+  <ellipse cx="315" cy="165" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="315" y="165" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">age</text>
+  <ellipse cx="925" cy="190" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="925" y="190" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12" text-decoration="underline">courseID</text>
+  <ellipse cx="490" cy="420" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="490" y="420" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">grade</text>
+  <ellipse cx="940" cy="510" rx="52" ry="21" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="940" y="510" text-anchor="middle" dominant-baseline="middle" font-family="Sans, Arial, Helvetica, sans-serif" font-size="12">sectionLetter</text>
+  <line x1="895.8" y1="518" x2="984.2" y2="518" stroke="black" stroke-width="1" stroke-dasharray="3,2"/>
+</svg>

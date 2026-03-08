@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram xmlns:xlink="http://www.w3.org/1999/xlink">
+  <diagramdata>
+    <attribute name="background"><color val="#ffffff"/></attribute>
+    <attribute name="pagebreak"><color val="#000099"/></attribute>
+  </diagramdata>
+  <layer name="Background" visible="true" active="true">
+    <object type="ER - Attribute" version="0" id="O2">
+      <attribute name="obj_pos"><point val="0.50,0.50"/></attribute>
+      <attribute name="obj_bb"><rectangle val="0.45,0.45;4.05,1.55"/></attribute>
+      <attribute name="elem_corner"><point val="0.50,0.50"/></attribute>
+      <attribute name="elem_width"><real val="3.50"/></attribute>
+      <attribute name="elem_height"><real val="1.00"/></attribute>
+      <attribute name="name"><string>#credits#</string></attribute>
+      <attribute name="key"><boolean val="false"/></attribute>
+      <attribute name="weak_key"><boolean val="false"/></attribute>
+      <attribute name="multivalue"><boolean val="false"/></attribute>
+      <attribute name="derived"><boolean val="false"/></attribute>
+    </object>
+    <object type="ER - Attribute" version="0" id="O3">
+      <attribute name="obj_pos"><point val="0.50,3.00"/></attribute>
+      <attribute name="obj_bb"><rectangle val="0.45,2.95;4.05,4.05"/></attribute>
+      <attribute name="elem_corner"><point val="0.50,3.00"/></attribute>
+      <attribute name="elem_width"><real val="3.50"/></attribute>
+      <attribute name="elem_height"><real val="1.00"/></attribute>
+      <attribute name="name"><string>#studentID#</string></attribute>
+      <attribute name="key"><boolean val="true"/></attribute>
+      <attribute name="weak_key"><boolean val="false"/></attribute>
+      <attribute name="multivalue"><boolean val="false"/></attribute>
+      <attribute name="derived"><boolean val="false"/></attribute>
+    </object>
+    <object type="ER - Attribute" version="0" id="O4">
+      <attribute name="obj_pos"><point val="0.50,6.50"/></attribute>
+      <attribute name="obj_bb"><rectangle val="0.45,6.45;4.05,7.55"/></attribute>
+      <attribute name="elem_corner"><point val="0.50,6.50"/></attribute>
+      <attribute name="elem_width"><real val="3.50"/></attribute>
+      <attribute name="elem_height"><real val="1.00"/></attribute>
+      <attribute name="name"><string>#major#</string></attribute>
+      <attribute name="key"><boolean val="false"/></attribute>
+      <attribute name="weak_key"><boolean val="false"/></attribute>
+      <attribute name="multivalue"><boolean val="true"/></attribute>
+      <attribute name="derived"><boolean val="false"/></attribute>
+    </object>
+    <object type="ER - Attribute" version="0" id="O5">
+      <attribute name="obj_pos"><point val="5.00,7.50"/></attribute>
+      <attribute name="obj_bb"><rectangle val="4.95,7.45;8.55,8.55"/></attribute>
+      <attribute name="elem_corner"><point val="5.00,7.50"/></attribute>
+      <attribute name="elem_width"><real val="3.50"/></attribute>
+      <attribute name="elem_height"><real val="1.00"/></attribute>
+      <attribute name="name"><string>#name#</string></attribute>
+      <attribute name="key"><boolean val="false"/></attribute>
+      <attribute name="weak_key"><boolean val="false"/></attribute>
+      <attribute name="multivalue"><boolean val="false"/></attribute>
+      <attribute name="derived"><boolean val="false"/></attribute>
+    </object>
+    <object type="ER - Attribute" version="0" id="O6">
+      <attribute name="obj_pos"><point val="2.50,10.50"/></attribute>
+      <attribute name="obj_bb"><rectangle val="2.45,10.45;6.05,11.55"/></attribute>
+      <attribute name="elem_corner"><point val="2.50,10.50"/></attribute>
+      <attribute name="elem_width"><real val="3.50"/></attribute>
+      <attribute name="elem_height"><real val="1.00"/></attribute>
+      <attribute name="name"><string>#firstName#</string></attribute>
+      <attribute name="key"><boolean val="false"/></attribute>
+      <attribute name="weak_key"><boolean val="false"/></attribute>
+      <attribute name="multivalue"><boolean val="false"/></attribute>
+      <attribute name="derived"><boolean val="false"/></attribute>
+    </object>
+    <object type="ER - Attribute" version="0" id="O7">
+      <attribute name="obj_pos"><point val="8.50,10.50"/></attribute>
+      <attribute name="obj_bb"><rectangle val="8.45,10.45;12.05,11.55"/></attribute>
+      <attribute name="elem_corner"><point val="8.50,10.50"/></attribute>
+      <attribute name="elem_width"><real val="3.50"/></attribute>
+      <attribute name="elem_height"><real val="1.00"/></attribute>
+      <attribute name="name"><string>#lastName#</string></attribute>
+      <attribute name="key"><boolean val="false"/></attribute>
+      <attribute name="weak_key"><boolean val="false"/></attribute>
+      <attribute name="multivalue"><boolean val="false"/></attribute>
+      <attribute name="derived"><boolean val="false"/></attribute>
+    </object>
+    <object type="ER - Attribute" version="0" id="O8">
+      <attribute name="obj_pos"><point val="11.50,3.00"/></attribute>
+      <attribute name="obj_bb"><rectangle val="11.45,2.95;15.05,4.05"/></attribute>
+      <attribute name="elem_corner"><point val="11.50,3.00"/></attribute>
+      <attribute name="elem_width"><real val="3.50"/></attribute>
+      <attribute name="elem_height"><real val="1.00"/></attribute>
+      <attribute name="name"><string>#age#</string></attribute>
+      <attribute name="key"><boolean val="false"/></attribute>
+      <attribute name="weak_key"><boolean val="false"/></attribute>
+      <attribute name="multivalue"><boolean val="false"/></attribute>
+      <attribute name="derived"><boolean val="true"/></attribute>
+    </object>
+    <object type="ER - Entity" version="0" id="O1">
+      <attribute name="obj_pos"><point val="5.00,3.00"/></attribute>
+      <attribute name="obj_bb"><rectangle val="4.95,2.95;9.55,4.05"/></attribute>
+      <attribute name="elem_corner"><point val="5.00,3.00"/></attribute>
+      <attribute name="elem_width"><real val="4.50"/></attribute>
+      <attribute name="elem_height"><real val="1.00"/></attribute>
+      <attribute name="name"><string>#Student#</string></attribute>
+      <attribute name="weak"><boolean val="false"/></attribute>
+    </object>
+    <object type="ER - Participation" version="0" id="O9">
+      <attribute name="obj_pos"><point val="5.00,3.50"/></attribute>
+      <attribute name="obj_bb"><rectangle val="3.95,0.95;5.05,3.55"/></attribute>
+      <attribute name="conn_endpoints">
+        <point val="5.00,3.50"/>
+        <point val="4.00,1.00"/>
+      </attribute>
+      <attribute name="numcp"><int val="1"/></attribute>
+      <attribute name="total"><boolean val="false"/></attribute>
+      <connections>
+        <connection handle="0" to="O1" connection="7"/>
+        <connection handle="1" to="O2" connection="4"/>
+      </connections>
+    </object>
+    <object type="ER - Participation" version="0" id="O10">
+      <attribute name="obj_pos"><point val="5.00,3.50"/></attribute>
+      <attribute name="obj_bb"><rectangle val="3.95,3.45;5.05,3.55"/></attribute>
+      <attribute name="conn_endpoints">
+        <point val="5.00,3.50"/>
+        <point val="4.00,3.50"/>
+      </attribute>
+      <attribute name="numcp"><int val="1"/></attribute>
+      <attribute name="total"><boolean val="false"/></attribute>
+      <connections>
+        <connection handle="0" to="O1" connection="7"/>
+        <connection handle="1" to="O3" connection="4"/>
+      </connections>
+    </object>
+    <object type="ER - Participation" version="0" id="O11">
+      <attribute name="obj_pos"><point val="5.00,3.50"/></attribute>
+      <attribute name="obj_bb"><rectangle val="3.95,3.45;5.05,7.05"/></attribute>
+      <attribute name="conn_endpoints">
+        <point val="5.00,3.50"/>
+        <point val="4.00,7.00"/>
+      </attribute>
+      <attribute name="numcp"><int val="1"/></attribute>
+      <attribute name="total"><boolean val="false"/></attribute>
+      <connections>
+        <connection handle="0" to="O1" connection="7"/>
+        <connection handle="1" to="O4" connection="4"/>
+      </connections>
+    </object>
+    <object type="ER - Participation" version="0" id="O12">
+      <attribute name="obj_pos"><point val="7.25,4.00"/></attribute>
+      <attribute name="obj_bb"><rectangle val="6.70,3.95;7.30,7.55"/></attribute>
+      <attribute name="conn_endpoints">
+        <point val="7.25,4.00"/>
+        <point val="6.75,7.50"/>
+      </attribute>
+      <attribute name="numcp"><int val="1"/></attribute>
+      <attribute name="total"><boolean val="false"/></attribute>
+      <connections>
+        <connection handle="0" to="O1" connection="5"/>
+        <connection handle="1" to="O5" connection="2"/>
+      </connections>
+    </object>
+    <object type="ER - Participation" version="0" id="O13">
+      <attribute name="obj_pos"><point val="6.75,8.50"/></attribute>
+      <attribute name="obj_bb"><rectangle val="4.20,8.45;6.80,10.55"/></attribute>
+      <attribute name="conn_endpoints">
+        <point val="6.75,8.50"/>
+        <point val="4.25,10.50"/>
+      </attribute>
+      <attribute name="numcp"><int val="1"/></attribute>
+      <attribute name="total"><boolean val="false"/></attribute>
+      <connections>
+        <connection handle="0" to="O5" connection="6"/>
+        <connection handle="1" to="O6" connection="2"/>
+      </connections>
+    </object>
+    <object type="ER - Participation" version="0" id="O14">
+      <attribute name="obj_pos"><point val="8.50,8.00"/></attribute>
+      <attribute name="obj_bb"><rectangle val="8.45,7.95;8.55,11.05"/></attribute>
+      <attribute name="conn_endpoints">
+        <point val="8.50,8.00"/>
+        <point val="8.50,11.00"/>
+      </attribute>
+      <attribute name="numcp"><int val="1"/></attribute>
+      <attribute name="total"><boolean val="false"/></attribute>
+      <connections>
+        <connection handle="0" to="O5" connection="4"/>
+        <connection handle="1" to="O7" connection="0"/>
+      </connections>
+    </object>
+    <object type="ER - Participation" version="0" id="O15">
+      <attribute name="obj_pos"><point val="9.50,3.50"/></attribute>
+      <attribute name="obj_bb"><rectangle val="9.45,3.45;11.55,3.55"/></attribute>
+      <attribute name="conn_endpoints">
+        <point val="9.50,3.50"/>
+        <point val="11.50,3.50"/>
+      </attribute>
+      <attribute name="numcp"><int val="1"/></attribute>
+      <attribute name="total"><boolean val="false"/></attribute>
+      <connections>
+        <connection handle="0" to="O1" connection="3"/>
+        <connection handle="1" to="O8" connection="0"/>
+      </connections>
+    </object>
+  </layer>
+</diagram>

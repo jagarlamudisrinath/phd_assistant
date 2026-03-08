@@ -1,0 +1,6 @@
+{
+  "_schema_version": "1.0",
+  "_description": "Tracks all active and in-progress PhD assignments. Updated automatically by JARVIS orchestrator.",
+  "_last_updated": "2025-11-24T00:00:00Z",
+  "assignments": []
+}

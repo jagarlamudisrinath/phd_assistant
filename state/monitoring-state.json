@@ -1,0 +1,32 @@
+{
+  "_schema_version": "1.0",
+  "_description": "Tracks Blackboard monitoring state - when courses were last checked for new assignments and announcements.",
+  "_last_updated": "2025-11-24T00:00:00Z",
+  "blackboard_monitoring": {
+    "enabled": false,
+    "last_full_check": null,
+    "check_interval_minutes": 60,
+    "courses": {
+      "DSRT-734": {
+        "last_checked": null,
+        "new_assignments_detected": 0,
+        "new_announcements_detected": 0
+      },
+      "ITS-831": {
+        "last_checked": null,
+        "new_assignments_detected": 0,
+        "new_announcements_detected": 0
+      },
+      "INTR-799": {
+        "last_checked": null,
+        "new_assignments_detected": 0,
+        "new_announcements_detected": 0
+      },
+      "OREN-500": {
+        "last_checked": null,
+        "new_assignments_detected": 0,
+        "new_announcements_detected": 0
+      }
+    }
+  }
+}
